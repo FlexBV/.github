@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://than flexbv.github.io/.github">
+  <a href="https://flexbv.github.io/.github">
     <img src="https://img.shields.io/badge/Скачать_FlexBV-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать FlexBV для Windows">
   </a>
 </p>
